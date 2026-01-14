@@ -63,7 +63,7 @@ pip install torch torchvision numpy
 2. Run the dataset preparation script:
 
 ```bash
-python MNISTdata.py
+python3 MNISTdata.py
 ```
 
 This script will:
